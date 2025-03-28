@@ -13,7 +13,7 @@ pip install aiohttp attrs yarl
 Or, if you want to install directly from GitHub:
 
 ```bash
-pip install git+https://github.com/your-username/telegra.py.git
+pip install git+https://github.com/connor224/telegra.py.git
 ```
 
 ## Usage
